@@ -2,5 +2,5 @@
 
 ## This is my first repo
 
-New line from bach !!!
+New line from bash !!!
 Добавен ред през GitHub Desktop
